@@ -1,0 +1,44 @@
+
+body{
+	background-color:coral;
+	margin:2px;
+	 background-image: url("C:\Users\next gen\Downloads\roses_flowers_plant_216000.jpg");
+	border-style: double;
+	border-top-color: red;
+	border-bottom-color: green;
+	border-right-color: pink;
+	border-left-color: yellow;
+	border-width: 10px;
+    margin:2px;
+    font-family:helvetic;
+}
+.q{
+	color:blue;
+	font-weight: bold;
+	margin-left:12px;
+}
+.e{
+	color:double;
+	color:yellow;
+	color:red;
+font-weight: bold;
+	margin-left: 2px;
+	margin-bottom: 2px;
+	shape-margin: circle;
+	
+}
+.r{
+   color:pink;
+   margin-left: 2px;
+}
+.y{
+	color:red;
+	font-family:'helvetic', san-serif;
+	margin-left: 2px;
+}
+.a{
+	margin-left: 350px;
+}
+.w{
+	margin-bottom:  2px;
+}
